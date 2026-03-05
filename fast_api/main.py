@@ -98,3 +98,4 @@ def product_deals():
         "best_deal": best_deal,
         "premium_pick": premium_pick
     }
+
