@@ -252,4 +252,5 @@ def place_bulk_order(order: BulkOrder):
         "confirmed": confirmed,
         "failed": failed,
         "grand_total": grand_total
+
     }
